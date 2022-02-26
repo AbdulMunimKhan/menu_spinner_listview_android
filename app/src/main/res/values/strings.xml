@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blank of Version 5</string>
+    <string name="hello">Hello</string>
+    <string-array name="students">
+        <item>Munim</item>
+        <item>Meisam</item>
+        <item>Sarah</item>
+    </string-array>
+</resources>
